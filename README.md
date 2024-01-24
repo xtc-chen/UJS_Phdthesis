@@ -17,7 +17,7 @@
 # 文件列表及说明
 ---
 ```
-UJS_phdthesis
+UJS_Phdthesis
  |- ujsthesis.cls                   // LaTeX宏模板文件
  |- main.tex                        // LaTeX主模板
  |- main.pdf                        // LaTeX模板
@@ -25,7 +25,7 @@ UJS_phdthesis
  |- gbt7714-2005-numerical.bst      // 国标参考文献BibTeX样式文件2005版
  |- figures                         // 论文图片文件夹
  |- figures/logo                    // 江苏大学logo文件
- |- date                            // 每一章的tex文件
+ |- data                            // 每一章的tex文件
  |- fonts                           // 字体文件夹
 ```
  
@@ -51,7 +51,7 @@ UJS_phdthesis
 
 + Q：什么样的图片可以插入？
 
-  A：主流格式如:png .jpg都支持。建议保存为.pdf格式，编译速度会加快，且.pdf为矢量图格式，排版会更好看。
+  A：主流格式如:png .jpg都支持。建议保存为.pdf格式，编译速度会加快，且.pdf为矢量图格式，排版更好看。
 
 + Q：Latex的表格怎么弄？
 
@@ -59,7 +59,7 @@ UJS_phdthesis
 
  # 建议及问题反馈
  ---
-+ E-mai:chenxtphil@163.com
++ E-mai: chenxtphil@163.com
 
  # QQ交流群：667981632
  
