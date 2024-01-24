@@ -9,11 +9,11 @@
 
 > ### 非官方版本，不保证能够完全满足最终论文提交等要求，已经尽力完善！
 
-本项目为[江苏大学](https://www.ujs.edu.cn/)**博士**研究生学位论文UJS_phdthesis模板，论文样式参考[2022年4月江苏大学研究生院发布的博士学论模板](https://yjsy.ujs.edu.cn/info/1273/13655.htm)
+本项目为[江苏大学](https://www.ujs.edu.cn/)**博士**研究生学位论文UJS_phdthesis模板，论文样式参考[2022年4月江苏大学研究生院发布的博士学论模板](https://yjsy.ujs.edu.cn/info/1273/13655.htm)。
 
-本项目基于[ctexbook](https://ctan.org/pkg/ctex)，以及前人的基础进行修改
+本项目基于[ctexbook](https://ctan.org/pkg/ctex)，以及前人的基础进行修改。
 
-希望此模板能够给江苏大学里喜欢用Latex的同学给予学位论文撰写上的帮助\
+希望此模板能够给江苏大学里喜欢用Latex的同学给予学位论文撰写上的帮助。
 
 # 文件列表及说明
 ---
