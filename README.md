@@ -1,12 +1,13 @@
 # 使用前请先阅读以下说明！！！
 ---
-# UJS_Phdthesis-20240124修订说明（by xiaotianchen）
+# UJS_Phdthesis-20240124修订说明（By [Chen Xiaotian](https://github.com/xtc-chen)）
+---
 + 修复了高版本texlive中newtx宏报错问题，原来的模板中newtx宏包和Times New Roman字体冲突，目前选择了其他字体进行替换；具体命令可以在cls文件中查看。
 + 根据部分同学的要求在目录前增加了表目录和图目录；如不需要可以删除。
 + 部分同学有附录的需求，所以在文章的最后加入了附录A和附录B；如不需要可以删除。
 
 # 江苏大学博士研究生学位论文LaTeX模板
-
+---
 > ### 非官方版本，不保证能够完全满足最终论文提交等要求，已经尽力完善！
 
 本项目为[江苏大学](https://www.ujs.edu.cn/)**博士**研究生学位论文UJS_phdthesis模板，论文样式参考[2022年4月江苏大学研究生院发布的博士学论模板](https://yjsy.ujs.edu.cn/info/1273/13655.htm)。
@@ -52,6 +53,10 @@ UJS_phdthesis
 
   A：主流格式如:png .jpg都支持。建议保存为.pdf格式，编译速度会加快，且.pdf为矢量图格式，排版会更好看。
 
++ Q：Latex的表格怎么弄？
+
+  A：可以尝试使用Latex表格在线制作：https://www.latex-tables.com/ or https://www.tablesgenerator.com/
+
  # 建议及问题反馈
  ---
 + E-mai:chenxtphil@163.com
@@ -65,7 +70,7 @@ UJS_phdthesis
 # 最后
 ---
 + UJS_phdthesis是为了帮助江苏大学博士毕业生撰写毕业论文而编写的LaTeX论文模板（博士论文工作量大、公式多）。但其前提是用户已经能处理一般的LaTeX文档，并对BibTeX有一定了解，如果你从来没有接触过LaTeX，建议先学习相关基础知识。磨刀不误砍柴工，一定的基础有助你更好地使用模板。
-+ 由于个人水平有限，虽然现在的这个版本基本上满足了学校的要求，但难免存在不足之处，欢迎大家积极反馈，更希望江苏大学LaTeX爱好者能一同完善此模板。让更多同学受益。愿此模板能够让大家喜欢并给予大家帮助！
++ 由于个人水平有限，虽然现在的这个版本基本上满足了学校的要求，但难免存在不足之处，欢迎大家积极反馈，更希望江苏大学LaTeX爱好者能一同完善此模板，让更多同学受益。愿此模板能够让大家喜欢并给予大家帮助！
 + 修改不易，如果能帮助到大家，欢迎打赏，谢谢！
   
 <img src="https://github.com/xtc-chen/UJS_Masterthesis/assets/84300491/a52fbbd0-ea7f-47f5-b523-1641b73efc49" alt="Your Image Description" width="300">
